@@ -1,0 +1,4 @@
+# README обещает перевод строки LF — держим его и в рабочей копии на Windows
+*.csv  text eol=lf
+*.md   text eol=lf
+*.json text eol=lf
