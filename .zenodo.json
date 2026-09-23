@@ -1,0 +1,13 @@
+{
+  "title": "Russian State Register of Pesticides and Agrochemicals as tables",
+  "upload_type": "dataset",
+  "creators": [{"name": "Агрорегламент (agroreglament.ru)"}],
+  "license": "cc-by-4.0",
+  "version": "2026-09-23",
+  "language": "rus",
+  "keywords": ["pesticides", "agrochemicals", "fertilizers", "plant protection", "registry", "Russia", "agriculture", "open data", "пестициды", "агрохимикаты", "реестр"],
+  "description": "<p>The State Catalogue of Pesticides and Agrochemicals Permitted for Use in the Russian Federation is published by the Ministry of Agriculture of Russia as a PDF of 1,837 pages. This dataset is the same content parsed into 11 flat CSV tables (UTF-8): 2,663 pesticide registrations, 15,044 regulation lines (product × crop × target × rate × pre-harvest interval × number of treatments), 1,694 agrochemical registrations with 4,747 regulation lines, reference tables of crops, targets and active ingredients.</p><p>Every regulation line keeps the register's own mark of who may use it: agricultural production or personal subsidiary plots (home gardens). A separate table lists what is permitted for home gardens under currently valid registrations. Empty cells mean “not stated in the register”, not zero.</p><p>Source: official release of 23.09.2026. Changes between releases: https://agroreglament.ru/obnovleniya/. The official register prevails; check the registration number on the package.</p>",
+  "related_identifiers": [
+    {"identifier": "https://agroreglament.ru/dannye/", "relation": "isDocumentedBy", "resource_type": "other"}
+  ]
+}

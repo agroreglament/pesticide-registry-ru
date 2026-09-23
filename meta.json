@@ -2,23 +2,23 @@
   "name": "russian-pesticide-registry",
   "title": "Реестр пестицидов и агрохимикатов России в таблицах",
   "source": "Государственный каталог пестицидов и агрохимикатов, Минсельхоз России",
-  "snapshot_date": "2026-09-11",
-  "snapshot_file": "pesticides_2026-09-11.pdf",
+  "snapshot_date": "2026-09-23",
+  "snapshot_file": "pesticides_2026-09-23.pdf",
   "license": "CC-BY-4.0",
   "homepage": "https://agroreglament.ru/dannye/",
   "files": {
-    "pesticides.csv": 2656,
-    "pesticide_regulations.csv": 15019,
-    "pesticide_regulation_crops.csv": 19090,
-    "pesticide_regulation_targets.csv": 29651,
-    "dacha_solutions.csv": 3717,
-    "agrochemicals.csv": 1690,
-    "agrochemical_regulations.csv": 4645,
-    "crops.csv": 82,
-    "targets.csv": 115,
-    "active_ingredients.csv": 472,
-    "product_ingredients.csv": 4053
+    "pesticides.csv": 2663,
+    "pesticide_regulations.csv": 15044,
+    "pesticide_regulation_crops.csv": 19194,
+    "pesticide_regulation_targets.csv": 29780,
+    "dacha_solutions.csv": 3696,
+    "agrochemicals.csv": 1694,
+    "agrochemical_regulations.csv": 4747,
+    "crops.csv": 83,
+    "targets.csv": 121,
+    "active_ingredients.csv": 473,
+    "product_ingredients.csv": 4066
   },
-  "lapsed_registrations": 90,
-  "lapsed_registrations_lph": 12
+  "lapsed_registrations": 82,
+  "lapsed_registrations_lph": 11
 }
