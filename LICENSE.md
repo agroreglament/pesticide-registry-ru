@@ -4,7 +4,8 @@
 **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 - Человеческим языком: https://creativecommons.org/licenses/by/4.0/deed.ru
-- Полный текст лицензии: https://creativecommons.org/licenses/by/4.0/legalcode.ru
+- Полный текст лицензии по-русски: https://creativecommons.org/licenses/by/4.0/legalcode.ru
+- Канонический текст (он же файл [`LICENSE`](LICENSE)): https://creativecommons.org/licenses/by/4.0/legalcode
 
 Вы можете копировать, распространять и перерабатывать материал в любых целях,
 включая коммерческие, при условии указания авторства.
